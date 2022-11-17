@@ -1,4 +1,4 @@
-# 2018 and 2017 Stock Markey Analysis
+# 2018 and 2017 Stock Market Analysis
 
 ## Overview
 
